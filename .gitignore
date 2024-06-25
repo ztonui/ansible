@@ -10,4 +10,4 @@
 .vscode-server/
         
 ansible-key.pem
-gitignore
+.gitignore
